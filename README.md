@@ -2,7 +2,7 @@
 
 A C++ implementation of the classic skateboarding letter game where two players compete by performing and matching tricks. The first player to spell out "SKATE" loses!
 
-## 🛹 Game Overview
+##  Game Overview
 
 SKATE is a turn-based word game played between two players. Each round:
 
@@ -12,7 +12,7 @@ SKATE is a turn-based word game played between two players. Each round:
 4. Players switch roles when the trick-setter fails their own attempt
 5. The first player to accumulate all five letters (S-K-A-T-E) loses
 
-## 🚀 Features
+##  Features
 
 - Turn-based gameplay with role switching
 - 20 unique skateboarding tricks with varying difficulty levels
@@ -20,12 +20,12 @@ SKATE is a turn-based word game played between two players. Each round:
 - Clear text interface displaying game state and progress
 - Input validation and error handling
 
-## 📋 Requirements
+##  Requirements
 
 - C++ compiler (g++)
 - C++11 or later
 
-## 🔧 Installation
+##  Installation
 
 1. Clone the repository:
 
@@ -33,7 +33,7 @@ SKATE is a turn-based word game played between two players. Each round:
 
 3. Run the game:
 
-## 🕹️ How to Play
+##  How to Play
 
 1. Enter player names when prompted
 2. Player 1 starts as the trick-setter
@@ -43,7 +43,7 @@ SKATE is a turn-based word game played between two players. Each round:
 6. Failed tricks result in role switching or letter assignment
 7. Game continues until one player spells "SKATE"
 
-## 🧪 Testing
+##  Testing
 
 The project includes comprehensive unit tests to verify game functionality:
 
@@ -58,7 +58,7 @@ The test suite includes:
 - Game flow simulation
 - Edge case handling
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 skate-game/
@@ -69,7 +69,7 @@ skate-game/
 
 ```
 
-## 🎯 Game Mechanics
+##  Game Mechanics
 
 ### Trick Difficulty
 
@@ -86,7 +86,7 @@ The game includes 20 authentic skateboarding tricks:
 - Advanced: 360 Flip, Hardflip, Impossible
 - Expert: Double Kickflip, Dolphin Flip
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 Potential improvements for the game:
 - Graphical user interface (GUI)
@@ -96,7 +96,7 @@ Potential improvements for the game:
 - Expanded trick library
 - Skater attribute/progression system
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Feel free to submit issues and pull requests for:
 - Bug fixes
@@ -104,12 +104,12 @@ Contributions are welcome! Feel free to submit issues and pull requests for:
 - Code optimizations
 - Documentation improvements
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Inspired by the skateboarding game SKATE
 - Developed as a C++ programming project for my class (will continue to improve)
 - Thanks to the skateboarding community for trick inspiration
 
-## 👥 Authors
+##  Authors
 
 [Jonathan Bailey] - Initial work
