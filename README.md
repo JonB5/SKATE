@@ -43,6 +43,27 @@ SKATE is a turn-based word game played between two players. Each round:
 6. Failed tricks result in role switching or letter assignment
 7. Game continues until one player spells "SKATE"
 
+## How to Run New GUI
+
+- Requirements
+
+Qt6 (Qt 6.9.0 or newer recommended)
+CMake 3.16 or newer
+C++17 compatible compiler
+
+- How to Build
+Using Qt Creator:
+
+Open Qt Creator
+Select "Open Project"
+Navigate to the project folder and open the CMakeLists.txt file
+Configure the project when prompted
+Build and run the application (Ctrl+R)
+
+- File Structure
+skate_gui_standalone_qt6.cpp - Main application file containing all code
+CMakeLists.txt - Build configuration file
+
 ##  Testing
 
 The project includes comprehensive unit tests to verify game functionality:
